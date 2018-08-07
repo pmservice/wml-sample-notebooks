@@ -1,1 +1,1 @@
-Sample notebooks for IBM Data Science Experience and IBM Watson Machine Learning.
+Sample notebooks for IBM Watson Studio and IBM Watson Machine Learning.
